@@ -20,10 +20,3 @@ A simple and interactive web application to **predict home prices in Bangalore**
 - **HTML/CSS & JavaScript** – for front-end interface  
 - **Pandas & scikit-learn** – for data processing and ML model  
 
----
-
-
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/himanshigaur1/Bangalore-Home-Price-Predictor.git
